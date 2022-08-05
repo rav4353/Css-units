@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 2px;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cm h1{
+    font-size: 1.5cm;
+}
+
+.cm p {
+    font-size: 0.5cm;
+}
+
+.mm h1 {
+    font-size: 15mm;
+}
+
+.mm p {
+    font-size: 5mm;
+}
+
+.in h1 {
+    font-size: 1in;
+}
+
+.in p {
+    font-size: 0.2in;
+}
+
+.px h1 {
+    font-size: 50px;
+}
+
+.px p {
+    font-size: 15px;
+}
+
+.pt h1 {
+    font-size: 50pt;
+}
+
+.pt p {
+    font-size: 15pt;
+}
+
+.pc h1 {
+    font-size: 4.5pc;
+}
+
+.pc p {
+    font-size: 1.5pc;
+}
+
+.box {
+    font-size: 25px;
+    border: 1px solid black;
+}
+
+.em {
+    font-size: 0.5em;
+}
+
+.ex {
+    font-size: 2ex;
+}
+
+.ch {
+    font-size: 3ch;
+}
+
+.rem {
+    font-size: 2rem;
+}
+
+.vh {
+    font-size: 2vh;
+}
+
+.vmin {
+    font-size: 5vmin;
+}
+
+.vmax {
+    font-size: 5vmax;
+}
+
+.percentage {
+    font-size: 150%;
+}
